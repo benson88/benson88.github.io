@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../sitemap.xsl" type="text/xsl" media="all"?>
+<site>
+<page file="index.html" text="貝克漢汽車旅館" title="貝克漢汽車旅館">
+<page file="brief.html" text="" title="貝克漢汽車旅館簡介">
+<page file="room.html" text="" title="貝克漢汽車旅館房間介紹"/>
+<page file="onsale.html" text="" title="貝克漢汽車旅館促銷活動"/>
+<page file="plant.html" text="" title="貝克漢汽車旅館設施介紹"/>
+<page file="restaurant.html" text="" title="貝克漢汽車旅館餐廳介紹"/>
+<page file="views.html" text="" title="貝克漢汽車旅館鄰近景點"/>
+<page file="traffic.html" text="" title="貝克漢汽車旅館交通指南"/>
+<page file="orderknow.html" text="" title="貝克漢汽車旅館訂房需知"/>
+<page file="hotel_sale.html" text="" title="貝克漢汽車旅館-線上訂房,網路訂房"/>
+</page>
+</page>
+</site>

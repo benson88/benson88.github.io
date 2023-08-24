@@ -1,0 +1,10 @@
+http://www.easytravel.com.tw/ehotel/beckham/	index
+http://www.easytravel.com.tw/ehotel/beckham/brief.aspx	brief
+http://www.easytravel.com.tw/ehotel/beckham/room.aspx	room
+http://www.easytravel.com.tw/ehotel/beckham/onsale.aspx	onsale
+http://www.easytravel.com.tw/ehotel/beckham/plant.aspx	plant
+http://www.easytravel.com.tw/ehotel/beckham/restaurant.aspx	restaurant
+http://www.easytravel.com.tw/ehotel/beckham/views.aspx	views
+http://www.easytravel.com.tw/ehotel/beckham/traffic.aspx	traffic
+http://www.easytravel.com.tw/ehotel/beckham/orderknow.aspx	orderknow
+http://www.easytravel.com.tw/ehotel/hotel_sale.aspx?posvn=032127788&url=https://www.easytravel.com.tw/ehotel/order.aspx?n=7175	hotel_sale
