@@ -8,3 +8,6 @@
 /.vs/slnx.sqlite
 /.vs/benson88.github.io/FileContentIndex/8cfadac3-035a-409b-a7e6-1c35c3d14a31.vsidx
 *.vsidx
+/.vs/benson88.github.io/v17/.wsuo
+/.vs/VSWorkspaceState.json
+/.gitignore
